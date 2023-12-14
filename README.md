@@ -12,4 +12,9 @@ Head over to https://vitejs.dev/ to learn more about using vite.
 
 One of the practice projects finished thanks to scrimba platform.
 
-Made
+Made using HTML, CSS and JS.
+
+Mainly focused on Javascript skills using functions, for()loops, arguments and parameters in function, localStorage property and Chrome API to get the current tab.
+
+
+
